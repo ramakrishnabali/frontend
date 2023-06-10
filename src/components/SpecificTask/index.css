@@ -1,0 +1,21 @@
+.update-button{
+    background-color: aqua;
+    border: 1px solid blanchedalmond;
+    border-radius: 10px;
+    margin-right: 20px;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.delete-button{
+    background-color: red;
+    border: 1px solid blanchedalmond;
+    border-radius: 10px;
+    margin-right: 20px;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 15px;
+    color: #ffffff;
+    font-weight: 600;
+}
